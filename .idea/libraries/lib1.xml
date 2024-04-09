@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/chart-application/dist/lib/flatlaf-intellij-themes-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chart-application/dist/lib/flatlaf-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chart-application/dist/lib/socket.io-client-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chart-application/dist/lib/engine.io-client-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chart-application/dist/lib/json-20090211.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chart-application/dist/lib/okhttp-3.12.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chart-application/dist/lib/miglayout-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chart-application/dist/lib/okio-1.15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

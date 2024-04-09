@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="chart-application">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/chart-application/dist/chart-application.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
